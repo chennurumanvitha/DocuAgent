@@ -71,20 +71,14 @@ DocuAgent/
 
 ## 6. Installation and Setup
 
-### Step 1: Clone the Repository
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd DocuAgent
-```
-
-### Step 2: Create a Virtual Environment
+### Step 1: Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### Step 3: Activate the Environment
+### Step 2: Activate the Environment
 
 Windows PowerShell:
 
@@ -92,13 +86,13 @@ Windows PowerShell:
 .\venv\Scripts\Activate.ps1
 ```
 
-### Step 4: Install Dependencies
+### Step 3: Install Dependencies
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-### Step 5: Install and Start Ollama
+### Step 4: Install and Start Ollama
 
 Install Ollama and download the required model:
 
