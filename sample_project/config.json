@@ -1,0 +1,7 @@
+{
+    "application_name": "Task Management System",
+    "version": "1.0.0",
+    "language": "Python",
+    "storage": "JSON",
+    "description": "A simple application to create, view and manage tasks."
+}
